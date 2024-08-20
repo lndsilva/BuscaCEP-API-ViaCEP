@@ -47,6 +47,7 @@ namespace AppViaCEP
             {
 
                 MessageBox.Show("Favor inserir CEP válido!!!", "Sistema", MessageBoxButtons.OK, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1);
+                limparCampos();
             }
 
         }
@@ -81,6 +82,15 @@ namespace AppViaCEP
         private void btnSair_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void mskCEP_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                buscaCEP(mskCEP.Text);
+            }
+            
         }
     }
 }

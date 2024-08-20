@@ -64,7 +64,7 @@ namespace AppViaCEP
             this.txtNumero.MaxLength = 5;
             this.txtNumero.Name = "txtNumero";
             this.txtNumero.Size = new System.Drawing.Size(86, 26);
-            this.txtNumero.TabIndex = 23;
+            this.txtNumero.TabIndex = 1;
             // 
             // label2
             // 
@@ -93,7 +93,7 @@ namespace AppViaCEP
             this.txtCidade.MaxLength = 100;
             this.txtCidade.Name = "txtCidade";
             this.txtCidade.Size = new System.Drawing.Size(252, 26);
-            this.txtCidade.TabIndex = 19;
+            this.txtCidade.TabIndex = 4;
             // 
             // label3
             // 
@@ -112,7 +112,7 @@ namespace AppViaCEP
             this.txtBairro.MaxLength = 100;
             this.txtBairro.Name = "txtBairro";
             this.txtBairro.Size = new System.Drawing.Size(252, 26);
-            this.txtBairro.TabIndex = 17;
+            this.txtBairro.TabIndex = 3;
             // 
             // Bairro
             // 
@@ -131,7 +131,7 @@ namespace AppViaCEP
             this.txtRua.MaxLength = 100;
             this.txtRua.Name = "txtRua";
             this.txtRua.Size = new System.Drawing.Size(252, 26);
-            this.txtRua.TabIndex = 15;
+            this.txtRua.TabIndex = 2;
             // 
             // label1
             // 
@@ -146,11 +146,14 @@ namespace AppViaCEP
             // btnBuscaCEP
             // 
             this.btnBuscaCEP.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBuscaCEP.Image = ((System.Drawing.Image)(resources.GetObject("btnBuscaCEP.Image")));
             this.btnBuscaCEP.Location = new System.Drawing.Point(83, 342);
             this.btnBuscaCEP.Name = "btnBuscaCEP";
             this.btnBuscaCEP.Size = new System.Drawing.Size(201, 73);
-            this.btnBuscaCEP.TabIndex = 13;
+            this.btnBuscaCEP.TabIndex = 6;
             this.btnBuscaCEP.Text = "&Busca CEP";
+            this.btnBuscaCEP.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnBuscaCEP.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnBuscaCEP.UseVisualStyleBackColor = true;
             this.btnBuscaCEP.Click += new System.EventHandler(this.btnBuscaCEP_Click);
             // 
@@ -161,7 +164,7 @@ namespace AppViaCEP
             this.cbbEstado.Location = new System.Drawing.Point(372, 169);
             this.cbbEstado.Name = "cbbEstado";
             this.cbbEstado.Size = new System.Drawing.Size(222, 28);
-            this.cbbEstado.TabIndex = 26;
+            this.cbbEstado.TabIndex = 5;
             // 
             // mskCEP
             // 
@@ -171,26 +174,33 @@ namespace AppViaCEP
             this.mskCEP.Name = "mskCEP";
             this.mskCEP.Size = new System.Drawing.Size(88, 26);
             this.mskCEP.TabIndex = 0;
+            this.mskCEP.KeyDown += new System.Windows.Forms.KeyEventHandler(this.mskCEP_KeyDown);
             // 
             // btnLimpar
             // 
             this.btnLimpar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLimpar.Image = ((System.Drawing.Image)(resources.GetObject("btnLimpar.Image")));
             this.btnLimpar.Location = new System.Drawing.Point(308, 342);
             this.btnLimpar.Name = "btnLimpar";
             this.btnLimpar.Size = new System.Drawing.Size(201, 73);
-            this.btnLimpar.TabIndex = 28;
+            this.btnLimpar.TabIndex = 7;
             this.btnLimpar.Text = "&Limpar";
+            this.btnLimpar.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnLimpar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnLimpar.UseVisualStyleBackColor = true;
             this.btnLimpar.Click += new System.EventHandler(this.btnLimpar_Click);
             // 
             // btnSair
             // 
             this.btnSair.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSair.Image = ((System.Drawing.Image)(resources.GetObject("btnSair.Image")));
             this.btnSair.Location = new System.Drawing.Point(554, 342);
             this.btnSair.Name = "btnSair";
             this.btnSair.Size = new System.Drawing.Size(201, 73);
-            this.btnSair.TabIndex = 29;
+            this.btnSair.TabIndex = 8;
             this.btnSair.Text = "&Sair";
+            this.btnSair.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnSair.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnSair.UseVisualStyleBackColor = true;
             this.btnSair.Click += new System.EventHandler(this.btnSair_Click);
             // 
