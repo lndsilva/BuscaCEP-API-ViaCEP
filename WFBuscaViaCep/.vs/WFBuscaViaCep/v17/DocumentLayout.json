@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chrystian\\Visual Studio Project\\BuscaCEP-API-ViaCEP\\WFBuscaViaCep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0887D-7810-4060-B117-E7ABBBA9A1FA}|BuscaCep\\BuscaCep.csproj|c:\\users\\chrystian\\visual studio project\\buscacep-api-viacep\\wfbuscaviacep\\buscacep\\buscacep.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3CB0887D-7810-4060-B117-E7ABBBA9A1FA}|BuscaCep\\BuscaCep.csproj|solutionrelative:buscacep\\buscacep.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0887D-7810-4060-B117-E7ABBBA9A1FA}|BuscaCep\\BuscaCep.csproj|c:\\users\\chrystian\\visual studio project\\buscacep-api-viacep\\wfbuscaviacep\\buscacep\\frmbuscacep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3CB0887D-7810-4060-B117-E7ABBBA9A1FA}|BuscaCep\\BuscaCep.csproj|solutionrelative:buscacep\\frmbuscacep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0887D-7810-4060-B117-E7ABBBA9A1FA}|BuscaCep\\BuscaCep.csproj|c:\\users\\chrystian\\visual studio project\\buscacep-api-viacep\\wfbuscaviacep\\buscacep\\frmbuscacep.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0887D-7810-4060-B117-E7ABBBA9A1FA}|BuscaCep\\BuscaCep.csproj|solutionrelative:buscacep\\frmbuscacep.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0887D-7810-4060-B117-E7ABBBA9A1FA}|BuscaCep\\BuscaCep.csproj|c:\\users\\chrystian\\visual studio project\\buscacep-api-viacep\\wfbuscaviacep\\buscacep\\frmbuscacep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0887D-7810-4060-B117-E7ABBBA9A1FA}|BuscaCep\\BuscaCep.csproj|solutionrelative:buscacep\\frmbuscacep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0887D-7810-4060-B117-E7ABBBA9A1FA}|BuscaCep\\BuscaCep.csproj|c:\\users\\chrystian\\visual studio project\\buscacep-api-viacep\\wfbuscaviacep\\buscacep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0887D-7810-4060-B117-E7ABBBA9A1FA}|BuscaCep\\BuscaCep.csproj|solutionrelative:buscacep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmBuscaCEP.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Chrystian\\Visual Studio Project\\BuscaCEP-API-ViaCEP\\WFBuscaViaCep\\BuscaCep\\FrmBuscaCEP.Designer.cs",
+              "RelativeDocumentMoniker": "BuscaCep\\FrmBuscaCEP.Designer.cs",
+              "ToolTip": "C:\\Users\\Chrystian\\Visual Studio Project\\BuscaCEP-API-ViaCEP\\WFBuscaViaCep\\BuscaCep\\FrmBuscaCEP.Designer.cs",
+              "RelativeToolTip": "BuscaCep\\FrmBuscaCEP.Designer.cs",
+              "ViewState": "AQIAANsAAAAAAAAAAAAAAOEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T04:39:08.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmBuscaCEP.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Chrystian\\Visual Studio Project\\BuscaCEP-API-ViaCEP\\WFBuscaViaCep\\BuscaCep\\FrmBuscaCEP.cs",
+              "RelativeDocumentMoniker": "BuscaCep\\FrmBuscaCEP.cs",
+              "ToolTip": "C:\\Users\\Chrystian\\Visual Studio Project\\BuscaCEP-API-ViaCEP\\WFBuscaViaCep\\BuscaCep\\FrmBuscaCEP.cs [Projeto]",
+              "RelativeToolTip": "BuscaCep\\FrmBuscaCEP.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T04:37:30.286Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuscaCep.csproj",
+              "DocumentMoniker": "C:\\Users\\Chrystian\\Visual Studio Project\\BuscaCEP-API-ViaCEP\\WFBuscaViaCep\\BuscaCep\\BuscaCep.csproj",
+              "RelativeDocumentMoniker": "BuscaCep\\BuscaCep.csproj",
+              "ToolTip": "C:\\Users\\Chrystian\\Visual Studio Project\\BuscaCEP-API-ViaCEP\\WFBuscaViaCep\\BuscaCep\\BuscaCep.csproj",
+              "RelativeToolTip": "BuscaCep\\BuscaCep.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T04:30:25.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmBuscaCEP.cs",
+              "DocumentMoniker": "C:\\Users\\Chrystian\\Visual Studio Project\\BuscaCEP-API-ViaCEP\\WFBuscaViaCep\\BuscaCep\\FrmBuscaCEP.cs",
+              "RelativeDocumentMoniker": "BuscaCep\\FrmBuscaCEP.cs",
+              "ToolTip": "C:\\Users\\Chrystian\\Visual Studio Project\\BuscaCEP-API-ViaCEP\\WFBuscaViaCep\\BuscaCep\\FrmBuscaCEP.cs",
+              "RelativeToolTip": "BuscaCep\\FrmBuscaCEP.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T04:11:09.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chrystian\\Visual Studio Project\\BuscaCEP-API-ViaCEP\\WFBuscaViaCep\\BuscaCep\\Program.cs",
+              "RelativeDocumentMoniker": "BuscaCep\\Program.cs",
+              "ToolTip": "C:\\Users\\Chrystian\\Visual Studio Project\\BuscaCEP-API-ViaCEP\\WFBuscaViaCep\\BuscaCep\\Program.cs",
+              "RelativeToolTip": "BuscaCep\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T04:09:13.631Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
